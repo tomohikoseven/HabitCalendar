@@ -2,7 +2,7 @@
 
 Google カレンダーの予定から学習時間や習慣のログを自動集計し、GitHubのコントリビューション風（草）に表示する Astro コンポーネントです。
 
-![Example Image](https://github.com/your-username/HabitCalendar/raw/main/example.png) *(実際に公開する際は画像を差し替えてください)*
+![Example Image](./example.png)
 
 ## 特徴
 
