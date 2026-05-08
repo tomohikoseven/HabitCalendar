@@ -1,0 +1,19 @@
+{
+  "name": "astro-habit-calendar",
+  "version": "1.0.0",
+  "description": "A GitHub-style contribution calendar for Astro, powered by Google Calendar API.",
+  "main": "src/HabitCalendar.astro",
+  "keywords": [
+    "astro",
+    "component",
+    "google-calendar",
+    "contribution-graph",
+    "heatmap"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomohikoseven/HabitCalendar.git"
+  }
+}
